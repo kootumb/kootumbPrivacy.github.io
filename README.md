@@ -1,3 +1,3 @@
 # kootumbPrivacy.github.io
 
-<a href=privacypolicy.md>privacyPolicy</a>
+<a href=/kootumbPrivacy.github.io/privacypolicy.md>privacyPolicy</a>
