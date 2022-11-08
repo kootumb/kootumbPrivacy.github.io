@@ -1,5 +1,5 @@
 ---
-title: privacyPolicy
+title: privacypolicy
 layout: template
 filename: privacypolicy.md
 --- 
