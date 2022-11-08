@@ -1,2 +1,4 @@
 # kootumbPrivacy.github.io
-<a href="privacypolicy.md">Page 2</a>
+{% for page in site.pages %}
+    <a href={{ page.filename }}>{{ page.title }}</a>
+{% endfor %}
