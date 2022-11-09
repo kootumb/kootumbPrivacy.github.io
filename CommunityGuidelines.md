@@ -1,3 +1,8 @@
+---
+title: privacypolicy
+layout: template
+filename: CommunityGuidelines.md
+--- 
 We created these guidelines together with the community to ensure we can all achieve a mutually peaceful, respectful, supportive and kind existence under this digital home we call kootumb.
 
 In short:
