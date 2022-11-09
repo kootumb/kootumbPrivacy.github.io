@@ -1,5 +1,5 @@
 ---
-title: privacypolicy
+title: communityGuidelines
 layout: template
 filename: CommunityGuidelines.md
 --- 
