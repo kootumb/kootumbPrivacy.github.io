@@ -1,3 +1,9 @@
+---
+title: Termsofuse
+layout: template
+filename: kootumb’sTermsofuse.md
+--- 
+
 1. General
 These Terms of Use govern the downloading and use of kootumb on any of its users' devices (computer, laptop, tablet, and other similar devices) These Terms of Use will also apply to every software update and may be amended in the future.
 If users do not agree with any of the terms laid down below, they will not be able to avail of any of the services offered by kootumb.
